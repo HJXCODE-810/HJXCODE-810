@@ -69,23 +69,16 @@
 ---
 ## 🌐 Social & Coding Profiles
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/HJXCODE-810">
-        <img src="https://skillicons.dev/icons?i=github" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/hrithik-jerath">
-        <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://leetcode.com/jerathhrithik">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="mailto:jerathhrithik@gmail.com" target="_blank" style="display:inline-block;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/hrithik-jerath" target="_blank" style="display:inline-block;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/jerathhrithik" target="_blank" style="display:inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
+  </a>
+</p>
+
  

@@ -60,11 +60,10 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=HJXCODE-810&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" 
-    height="150" 
-    alt="GitHub streak graph" 
+    src="https://streak-stats.demolab.com?user=HJXCODE-810&theme=dracula" 
   />
 </p>
+
 
 ---
 

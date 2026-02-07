@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hrithik Jerath</h1>
+<h3 align="center">AI • Data Science • Backend Engineering</h3>
 
-<!--
-**HJXCODE-810/HJXCODE-810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👤 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Engineering student  
+- Interested in **AI, Data Science, NLP, and Speech Processing**
+- Backend-focused with **REST APIs & system design**
+- Comfortable with **C / C++ (Visual C++)** for systems & game development
+- Actively learning and contributing to **open source**
+
+---
+
+## 🧾 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,r" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
+</p>
+
+---
+
+## 🧰 Skills
+
+### AI / Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+</p>
+
+### Backend & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,react,vite" />
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,linux,docker" />
+</p>
+
+### Systems / Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/OpenGL_logo.svg" height="40"/>
+</p>
+
+---
+
+## 📊 Live GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HJXCODE-810&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HJXCODE-810&show_icons=true&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJXCODE-810&layout=compact&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HJXCODE-810&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🌐 Social & Coding Profiles
+
+<p align="left">
+  <a href="https://github.com/HJXCODE-810" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hrithik-jerath" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
+  </a>
+</p>

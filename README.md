@@ -60,7 +60,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=HJXCODE-810&theme=github-dark" 
+    src="https://streak-stats.demolab.com?user=HJXCODE-810&theme=github-dark" 
     height="160"
     alt="GitHub contribution streak" 
   />
@@ -85,12 +85,13 @@
 
 <p align="left">
   <a href="https://github.com/HJXCODE-810" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
   <a href="https://www.linkedin.com/in/hrithik-jerath" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
   <a href="https://leetcode.com/jerathhrithik" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
   </a>
 </p>
+

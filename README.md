@@ -56,21 +56,27 @@
 
 ## 📊 Live GitHub Activity
 
-### 🔥 Contribution Streak
-
-<div align="center">
-
-[![Hrithik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HJXCODE-810&theme=react-dark&hide_border=true&area=true&custom_title=Hrithik%20Jerath%27s%20Contribution%20Graph&height=1300)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" /> **Developer Activity Snapshot**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=HJXCODE-810&theme=dracula" 
+    height="150" 
+    alt="GitHub contribution streak" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJXCODE-810&layout=compact&langs_count=8&theme=github-dark" 
+    height="150" 
+    alt="Top languages" 
+  />
 </p>
 
 ---
 
-### 🟡 Contribution Timeline (Pac-Man)
+## 🟡 Contribution Timeline (Pac-Man)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"

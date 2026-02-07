@@ -6,9 +6,9 @@
 ## 👤 About Me
 
 - Computer Engineering student  
-- Interested in **AI, Data Science, NLP, and Speech Processing**
-- Backend-focused with **REST APIs & system design**
-- Comfortable with **C / C++ (Visual C++)** for systems-level programming
+- Interested in **AI, Data Science, NLP, and Speech Processing**  
+- Backend-focused with **REST APIs & system design**  
+- Comfortable with **C / C++ (Visual C++)** for systems-level programming  
 - Actively learning and contributing to **open-source projects**
 
 ---
@@ -61,24 +61,37 @@
     srcset="https://raw.githubusercontent.com/HJXCODE-810/HJXCODE-810/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/HJXCODE-810/HJXCODE-810/output/pacman-contribution-graph.svg" />
-  <img 
-    alt="pacman contribution graph"
+  <img
+    alt="Pac-Man contribution graph"
     src="https://raw.githubusercontent.com/HJXCODE-810/HJXCODE-810/output/pacman-contribution-graph.svg" />
 </picture>
 
 ---
+
 ## 🌐 Social & Coding Profiles
 
-<p align="left">
-  <a href="mailto:jerathhrithik@gmail.com" target="_blank" style="display:inline-block;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/hrithik-jerath" target="_blank" style="display:inline-block;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/jerathhrithik" target="_blank" style="display:inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/HJXCODE-810">
+        <img src="https://skillicons.dev/icons?i=github" height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/hrithik-jerath">
+        <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/jerathhrithik">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
- 
+---
+
+### 🔗 Connect with me
+
+- 📧 **Email:** jerathhrithik@gmail.com

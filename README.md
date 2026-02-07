@@ -54,28 +54,6 @@
 
 ---
 
-## 📊 Live GitHub Activity
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" /> **Developer Activity Snapshot**
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=HJXCODE-810&theme=dracula" 
-    height="150" 
-    alt="GitHub contribution streak" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJXCODE-810&layout=compact&langs_count=8&theme=github-dark" 
-    height="150" 
-    alt="Top languages" 
-  />
-</p>
-
----
-
 ## 🟡 Contribution Timeline (Pac-Man)
 
 <picture>

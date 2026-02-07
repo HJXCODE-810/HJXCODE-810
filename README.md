@@ -8,8 +8,8 @@
 - Computer Engineering student  
 - Interested in **AI, Data Science, NLP, and Speech Processing**
 - Backend-focused with **REST APIs & system design**
-- Comfortable with **C / C++ (Visual C++)** for systems & game development
-- Actively learning and contributing to **open source**
+- Comfortable with **C / C++ (Visual C++)** for systems-level programming
+- Actively learning and contributing to **open-source projects**
 
 ---
 
@@ -27,10 +27,10 @@
 ### AI / Data Science
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" />
 </p>
 
 ### Backend & Web
@@ -46,23 +46,26 @@
 ### Systems / Game Development
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/OpenGL_logo.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" />
 </p>
+
+- C / C++ with Visual C++  
+- OpenGL / FreeGLUT  
+- Low-level rendering & game loops  
 
 ---
 
 ## 📊 Live GitHub Activity
 
-<p align="left">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HJXCODE-810&theme=github-dark&hide_border=true" />
 </p>
 
-<p align="left">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=HJXCODE-810&show_icons=true&theme=github-dark&hide_border=true" />
 </p>
 
-<p align="left">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJXCODE-810&layout=compact&theme=github-dark&hide_border=true" />
 </p>
 
@@ -81,7 +84,7 @@
   <a href="https://www.linkedin.com/in/hrithik-jerath" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+  <a href="https://leetcode.com/jerathhrithik" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
   </a>
 </p>

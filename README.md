@@ -58,12 +58,15 @@
 
 ### 🔥 Contribution Streak
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=HJXCODE-810&theme=dracula" 
-  />
-</p>
+<div align="center">
 
+[![Hrithik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HJXCODE-810&theme=react-dark&hide_border=true&area=true&custom_title=Hrithik%20Jerath%27s%20Contribution%20Graph&height=1300)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
+</p>
 
 ---
 

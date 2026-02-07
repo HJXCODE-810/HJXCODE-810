@@ -69,15 +69,24 @@
 ---
 ## 🌐 Social & Coding Profiles
 
-<p align="left">
-  <a href="https://github.com/HJXCODE-810" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/hrithik-jerath" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://leetcode.com/jerathhrithik" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
-  </a>
-</p>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/HJXCODE-810">
+        <img src="https://skillicons.dev/icons?i=github" height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/hrithik-jerath">
+        <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/jerathhrithik">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
+---
+### Happy Coding 

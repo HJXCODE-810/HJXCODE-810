@@ -60,21 +60,9 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=HJXCODE-810&theme=dracula" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HJXCODE-810&theme=github-dark" 
     height="160"
     alt="GitHub contribution streak" 
-  />
-</p>
-
----
-
-### 🏆 GitHub Highlights
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=HJXCODE-810&theme=dracula&row=1&column=6" 
-    height="160"
-    alt="GitHub trophies" 
   />
 </p>
 

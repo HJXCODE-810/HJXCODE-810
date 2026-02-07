@@ -28,19 +28,18 @@
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" />
 </p>
 
 ### Backend & Web
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,react,vite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,react,vite" />
 </p>
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,linux,aws" />
 </p>
 
 ### Systems / Game Development
@@ -57,24 +56,43 @@
 
 ## 📊 Live GitHub Activity
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HJXCODE-810&theme=github-dark&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HJXCODE-810&show_icons=true&theme=github-dark&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJXCODE-810&layout=compact&theme=github-dark&hide_border=true" />
-</p>
+### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HJXCODE-810&theme=github-dark&hide_border=true&area=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=HJXCODE-810&theme=dracula" 
+    height="160"
+    alt="GitHub contribution streak" 
+  />
 </p>
 
 ---
 
+### 🏆 GitHub Highlights
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=HJXCODE-810&theme=dracula&row=1&column=6" 
+    height="160"
+    alt="GitHub trophies" 
+  />
+</p>
+
+---
+
+### 🟡 Contribution Timeline (Pac-Man)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HJXCODE-810/HJXCODE-810/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HJXCODE-810/HJXCODE-810/output/pacman-contribution-graph.svg" />
+  <img 
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/HJXCODE-810/HJXCODE-810/output/pacman-contribution-graph.svg" />
+</picture>
+
+---
 ## 🌐 Social & Coding Profiles
 
 <p align="left">
